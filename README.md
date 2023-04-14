@@ -8,5 +8,15 @@ Gracias.
 Este script de versión gratuita no recopila ni captura ninguna información mientras se ejecuta. Asegúrese de comprender toda la codificación y el proceso antes de ejecutar, lea línea por línea el código original antes de comenzar a ejecutar. No seremos responsables de ninguna pérdida y/o daño por el uso de nuestro script. Úselo bajo su propio riesgo.
 
 # Registro de Cambios
-Versión 1.0 (subir.py)
-Versión estándar
+<li><b>Versión 1.8.1 (subir18.py)</b>
+<ul><li>Admite el formato de metadatos de "atributos" y "propiedades"</li>
+</ul></li>
+<li><b>Version 1.8 (subir18.py)</b>
+<ul><li>Se agregó soporte de duración. La duración máxima es de 6 meses. <BR>
+*Por favor, instale el formato de fecha de PC "pip install python-dateutil" <BR>
+DEBE establecerse en mm/dd/aaaa
+</li>
+</ul></li>
+ <li><b>Versión 1.0 (subir.py)</b>
+<ul><li>Versión estándar</li></ul>
+</li>
