@@ -1,1 +1,1 @@
-# alzar_nft_opensea
+# alzar-nft-opensea
