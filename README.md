@@ -8,6 +8,11 @@ Gracias.
 Este script de versión gratuita no recopila ni captura ninguna información mientras se ejecuta. Asegúrese de comprender toda la codificación y el proceso antes de ejecutar, lea línea por línea el código original antes de comenzar a ejecutar. No seremos responsables de ninguna pérdida y/o daño por el uso de nuestro script. Úselo bajo su propio riesgo.
 
 # Registro de Cambios
+<li><b>Versión 1.8.8 (subir_captcha.py)</b><BR>
+Agregue la extensión de cromo: Buster: Captcha Solver for Humans<BR>
+https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl?hl=es<BR>
+configuración de la extensión: seleccione cualquier "servicio de voz" y coloque la clave API (apoyo visual mas abajo)
+       </li>
 <li><b>Versión 1.8.1 (subir18.py)</b>
 <ul><li>Admite el formato de metadatos de "atributos" y "propiedades"</li>
 </ul></li>
