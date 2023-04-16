@@ -44,3 +44,7 @@ DEBE establecerse en mm/dd/aaaa
  <li><b>Versión 1.0 (subir.py)</b>
 <ul><li>Versión estándar</li></ul>
 </li>
+ 
+ # Instrucciones
+ <li>Descargue y extraiga este proyecto en su dispositivo local (mantenga todos los archivos y carpetas que vienen con el repositorio en esta carpeta)</li>
+   <li>Descargue y actualice Python. Mi versión de Python es 3.8.10 * </li>
