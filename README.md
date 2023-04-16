@@ -67,7 +67,7 @@ Instale PIP para Python si "pip no se reconoce como un comando interno o externo
 </ul>
 <li>Haga clic y seleccione la carpeta "src".</li>
 <li>Haga clic en "abrir navegador Chrome" y aparecerá un nuevo navegador Chrome. Inicie sesión o inicie sesión en su cuenta de metamask. Descargue la extensión metamask si no la tiene</li>
-<li>Descargue el enlace de la extensión del clicker de captcha No soy un robot: https://chrome.google.com/webstore/detail/im-not-robot-captcha-clic/ceipnlhmjohemhfpbjdgeigkababhmjc/related?hl=en-US</li> >
+<li>Descargue el enlace de la extensión del clicker de captcha No soy un robot: https://chrome.google.com/webstore/detail/im-not-robot-captcha-clic/ceipnlhmjohemhfpbjdgeigkababhmjc/related?hl=en-US</li>
 <li>Y haga clic en "iniciar" para que se ejecute.</li>
 </ul>
 <BR>
