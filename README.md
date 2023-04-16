@@ -45,6 +45,13 @@ DEBE establecerse en mm/dd/aaaa
 <ul><li>Versión estándar</li></ul>
 </li>
  
- # Instrucciones
- <li>Descargue y extraiga este proyecto en su dispositivo local (mantenga todos los archivos y carpetas que vienen con el repositorio en esta carpeta)</li>
-   <li>Descargue y actualice Python. Mi versión de Python es 3.8.10 * </li>
+# Instrucciones
+<li>Descargue y extraiga este proyecto en su dispositivo local (mantenga todos los archivos y carpetas que vienen con el repositorio en esta carpeta)</li>
+<li>Descargue y actualice Python. Mi versión de Python es 3.8.10 * </li>
+<li>Coloque todas las imágenes de NFT en la carpeta "src/images" (etc. 1.png), y el archivo .json de metadatos de propiedades de NFT en la carpeta src/json. (etc. 1.json)</li>
+<li>Abra esta carpeta de proyecto con cualquier editor de código y haga clic en "abrir powershell" o "Terminal"</li>
+<li>Pip install requisitos.txt ejecutando el siguiente comando (pip install -r requisitos.txt) <BR>
+Instale PIP para Python si "pip no se reconoce como un comando interno o externo</li>
+<li>Ejecute el script, escriba "python upload.py"</li>
+<li>Una vez que se ejecute el script, aparecerá la aplicación</li>
+<li>Complete la variable para las propiedades de carga de su proyecto, </li>
