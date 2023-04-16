@@ -8,6 +8,26 @@ Gracias.
 Este script de versión gratuita no recopila ni captura ninguna información mientras se ejecuta. Asegúrese de comprender toda la codificación y el proceso antes de ejecutar, lea línea por línea el código original antes de comenzar a ejecutar. No seremos responsables de ninguna pérdida y/o daño por el uso de nuestro script. Úselo bajo su propio riesgo.
 
 # Registro de Cambios
+<ul>
+<li><b>Versión 2.0.1 (subir_2captcha_V2.py)</b><BR>
+Se eliminaron algunos controles que ya no eran necesarios para el polígono.<BR>
+Se agregó la última versión estable: ChromeDriver
+</li>
+<li><b>Versión 2.0.0 (subir_2captcha_V2.py)</b><BR>
+2Captcha y Buster Solver combinados en un archivo<BR>
+Se agregaron verificaciones de errores repetitivas para muchos posibles errores que pueden ocurrir en el sitio<BR>
+Se agregó "chrome_extension". Abra la carpeta chrome_extension y lea las instrucciones<BR>
+Collection Scraper añadido como prototipo.
+</li>
+<li><b>Versión 1.9.0 (subir_2captcha.py)</b><BR>
+2Resolver captcha<BR>
+https://chrome.google.com/webstore/detail/2captcha-solver/ifibfemgeogfhoebkmokieepdoobkbpo?hl=es<BR>
+Obtenga su clave API de <a href="https://2captcha.com?from=13605454" target="_blank">2captcha.com</a><BR>
+Habilitado y resuelto automáticamente reCaptcha V2 en la página de opciones.
+</li>
+<li><b>Versión 1.8.9 (subir_captcha.py)</b><BR>
+Selección de rango de duración fija
+</li>
 <li><b>Versión 1.8.8 (subir_captcha.py)</b><BR>
 Agregue la extensión de cromo: Buster: Captcha Solver for Humans<BR>
 https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl?hl=es<BR>
