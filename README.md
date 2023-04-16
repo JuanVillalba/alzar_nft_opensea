@@ -55,3 +55,26 @@ Instale PIP para Python si "pip no se reconoce como un comando interno o externo
 <li>Ejecute el script, escriba "python upload.py"</li>
 <li>Una vez que se ejecute el script, aparecerá la aplicación</li>
 <li>Complete la variable para las propiedades de carga de su proyecto, </li>
+ <ul>
+<li>Enlace de la colección Opensea: https://www.opensea.io/collection/yourcollectionsname/<B>assets/create</b></li>
+<li>Número de inicio 1</li>
+<li>Número final 9999 o cualquier número</li>
+<li>Precio predeterminado: 0,005</li>
+<li>Título con el símbolo "#" al final</li>
+<li>Descripción</li>
+<li>Formato de imagen NFT "png"</li>
+<li>El enlace externo comienza con http….</li>
+</ul>
+<li>Haga clic y seleccione la carpeta "src".</li>
+<li>Haga clic en "abrir navegador Chrome" y aparecerá un nuevo navegador Chrome. Inicie sesión o inicie sesión en su cuenta de metamask. Descargue la extensión metamask si no la tiene</li>
+<li>Descargue el enlace de la extensión del clicker de captcha No soy un robot: https://chrome.google.com/webstore/detail/im-not-robot-captcha-clic/ceipnlhmjohemhfpbjdgeigkababhmjc/related?hl=en-US</li> >
+<li>Y haga clic en "iniciar" para que se ejecute.</li>
+</ul>
+<BR>
+Para Collection Scraper agregado como prototipo<ul>
+<li>Abra la página de su colección como: https://www.opensea.io/collection/yourcollectionsname</li>
+<li>Establezca el zoom del navegador al 50 % o menos y espere a que la página se cargue por completo. </li>
+<li>Haga clic en el botón "Colección SCRAPE" para que se ejecute</li>
+<li>Si tiene problemas para hacerlo de forma masiva, en la página de recopilación, busque 1 y comience, luego 2 y luego 3...
+Puede hacer esto hasta 9 para una colección de 10k.</li>
+</ul>
