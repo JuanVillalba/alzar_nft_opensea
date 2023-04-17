@@ -68,6 +68,10 @@ Instale PIP para Python si "pip no se reconoce como un comando interno o externo
 <li>Haga clic y seleccione la carpeta "src".</li>
 <li>Haga clic en "abrir navegador Chrome" y aparecerá un nuevo navegador Chrome. Inicie sesión o inicie sesión en su cuenta de metamask. Descargue la extensión metamask si no la tiene</li>
 <li>Descargue el enlace de la extensión del clicker de captcha No soy un robot: https://chrome.google.com/webstore/detail/im-not-robot-captcha-clic/ceipnlhmjohemhfpbjdgeigkababhmjc/related?hl=en-US</li>
+ <li>Acuerdese de hacer click en Abrir el navegador Chrome, una ves hecho eso en la carpeta "chrome_perfil" se creará todos los archivos necesarios para gestionar la cuenta de metamask y las cuentas de OpenSea.</li>
+<li>Debera instalar las Extensiones de Metamask e importar sus llaves privadas o semillas a su Metamask. Desde el siguiente vinculo podra descargar https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=es</li>
+<li>Una ves hecho eso debe tambien instalar Selenium para un correcto funcionamiento. Desde el siguiente vinculo podra descargar https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd </li>
+<li>Recuerde todo esto debera hacer desde la ventana para Subir los NFT, click en abrir el navegador y alli instalar todo.</li>
 <li>Y haga clic en "iniciar" para que se ejecute.</li>
 </ul>
 <BR>
@@ -77,10 +81,6 @@ Para Collection Scraper agregado como prototipo<ul>
 <li>Haga clic en el botón "Colección SCRAPE" para que se ejecute</li>
 <li>Si tiene problemas para hacerlo de forma masiva, en la página de recopilación, busque 1 y comience, luego 2 y luego 3...
 Puede hacer esto hasta 9 para una colección de 10k.</li>
- <li>Acuerdese de hacer click en Abrir el navegador Chrome, una ves hecho eso en la carpeta "chrome_perfil" se creará todos los archivos necesarios para gestionar la cuenta de metamask y las cuentas de OpenSea.</li>
-<li>Debera instalar las Extensiones de Metamask e importar sus llaves privadas o semillas a su Metamask. Desde el siguiente vinculo podra descargar https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=es</li>
-<li>Una ves hecho eso debe tambien instalar Selenium para un correcto funcionamiento. Desde el siguiente vinculo podra descargar https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd </li>
-<li>Recuerde todo esto debera hacer desde la ventana para Subir los NFT, click en abrir el navegador y alli instalar todo.</li>
 </ul>
  
  # Lista de verificación antes de presionar el botón "iniciar"
