@@ -1,0 +1,43 @@
+{
+  "name": "Nombre #1",
+  "description": "Descripcion del Albun NFT", 
+  "image": "ipfs://url_del_nft/1.png",
+  "dna": "5b882fd9b472c8696ca514e34a91b32e36ff48f4",
+  "edition": 1,
+  "date": 1637558552616,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Gold Yellow"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Orange Left Hand"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "EAR",
+      "value": "Red"
+    },
+    {
+      "trait_type": "EYE",
+      "value": "Freak"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "WEAR",
+      "value": "Mustache"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
