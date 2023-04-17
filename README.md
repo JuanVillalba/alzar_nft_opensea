@@ -98,3 +98,10 @@ Actualmente, este script solo se probó en Windows 7 y 10. No es compatible con 
  # Contáctame
 Si tienes alguna pregunta o quieres ponerte en contacto puedes encontrarme en twitter como https://twitter.com/Juanpicho007
  
+# Gracias
+Por favor comparte y deja tu estrella estrella.<BR>
+Si te resultó útil, cómprame un café (me gusta el café :), https://ko-fi.com/obijuan007 <BR>
+Paypal: https://paypal.me/klvntss<BR>
+Dirección de Ethereum/Polygon/Avalanche/BSC: (aceptamos cualquier token) <B>0x30271073D426621f123Ae4b2ac1Db4FaA0F8a6cd</b><BR>
+Dirección de Bitcoin: bc1qfxzvsnxptwkl0fdl5kscq539d2tgma9tmrl8w0
+Muchas gracias </p>
