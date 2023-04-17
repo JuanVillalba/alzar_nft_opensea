@@ -91,3 +91,10 @@ Puede hacer esto hasta 9 para una colección de 10k.</li>
     <li>verifique dos veces su imagen/formato json: 1.png o 1.json</li>
     </ul>
    </p>
+ 
+ # Mensaje para un usuario de MacOS
+Actualmente, este script solo se probó en Windows 7 y 10. No es compatible con MacOS
+ 
+ # Contáctame
+Si tienes alguna pregunta o quieres ponerte en contacto puedes encontrarme en twitter como https://twitter.com/Juanpicho007
+ 
