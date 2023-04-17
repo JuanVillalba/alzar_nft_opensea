@@ -78,3 +78,16 @@ Para Collection Scraper agregado como prototipo<ul>
 <li>Si tiene problemas para hacerlo de forma masiva, en la página de recopilación, busque 1 y comience, luego 2 y luego 3...
 Puede hacer esto hasta 9 para una colección de 10k.</li>
 </ul>
+ 
+ # Lista de verificación antes de presionar el botón "iniciar"
+  <p><ul>
+    <li>Modo nocturno en OpenSea desactivado</li>
+    <li>El enlace de la colección Opensea debe terminar con "assets/create", <BR>
+      se ve así: https://www.opensea.io/collection/yourcollectionsname/<B>assets/create</b></li>
+   <li>Si es polígono, marque "blockchain de polygon</li>
+   <li>Marque "lista completa" para listar la Venta del NFT</li>
+   <li>Si es polígono, marque "polygon blockchain!"</li>
+   <li>Seleccione sus imágenes y la carpeta json "src".. Ejemplo:C:\7\src</li>
+    <li>verifique dos veces su imagen/formato json: 1.png o 1.json</li>
+    </ul>
+   </p>
